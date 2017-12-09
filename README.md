@@ -31,7 +31,7 @@ $ npm i egg-bcrypt --save
 * config.default.js
 ```js
 exports.bcrypt = {
-  saltRounds: 10 // default 10
+  saltRounds: 10 // default 10
 }
 ```
 * config/plugin.js
