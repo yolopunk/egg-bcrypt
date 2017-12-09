@@ -43,14 +43,7 @@
   "ci": {
     "version": "8, 9"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/eggjs/egg-bcrypt.git"
-  },
-  "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
-  },
-  "homepage": "https://github.com/eggjs/egg-bcrypt#readme",
+  "repository": "git@github.com:yolopunk/egg-bcrypt.git",
   "author": "yolopunk",
   "license": "MIT"
 }

@@ -9,12 +9,12 @@
 
 [npm-image]: https://img.shields.io/npm/v/egg-bcrypt.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-bcrypt
-[travis-image]: https://img.shields.io/travis/eggjs/egg-bcrypt.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-bcrypt
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-bcrypt.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-bcrypt?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-bcrypt.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-bcrypt
+[travis-image]: https://img.shields.io/travis/yolopunk/egg-bcrypt.svg?style=flat-square
+[travis-url]: https://travis-ci.org/yolopunk/egg-bcrypt
+[codecov-image]: https://img.shields.io/codecov/c/github/yolopunk/egg-bcrypt.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/yolopunk/egg-bcrypt?branch=master
+[david-image]: https://img.shields.io/david/yolopunk/egg-bcrypt.svg?style=flat-square
+[david-url]: https://david-dm.org/yolopunk/egg-bcrypt
 [snyk-image]: https://snyk.io/test/npm/egg-bcrypt/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-bcrypt
 [download-image]: https://img.shields.io/npm/dm/egg-bcrypt.svg?style=flat-square
@@ -86,4 +86,4 @@ exports.bcrypt = {
   ```
 ## License
 
-[MIT](LICENSE)  
+[MIT](LICENSE)
