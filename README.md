@@ -20,7 +20,7 @@
 [download-image]: https://img.shields.io/npm/dm/egg-bcrypt.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-bcrypt
 
-bcrypt plugin for egg, baseed on [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
+bcrypt plugin for egg, based on [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
 
 ## Install
 ```bash
