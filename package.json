@@ -1,6 +1,6 @@
 {
   "name": "egg-bcrypt",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "egg bcrypt plugin",
   "eggPlugin": {
     "name": "bcrypt"
@@ -11,7 +11,7 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "bcrypt": "^1.0.3"
+    "bcryptjs": "^2.4.3"
   },
   "devDependencies": {
     "autod": "^3.0.0",
